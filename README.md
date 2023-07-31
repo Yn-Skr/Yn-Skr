@@ -1,7 +1,8 @@
 # Hello There
 
 # Coding Languages
--https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+<img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Qian Qian "Cubik"‎/>
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
